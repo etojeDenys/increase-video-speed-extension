@@ -1,0 +1,39 @@
+.container{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    padding: 10px;
+}
+
+.flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    width: 20px;
+    height: 20px;
+}
+
+span{
+    font-weight: bold;
+    color: red;
+}
+
+h1{
+    white-space: nowrap;
+    font-size: 12px;
+    text-align: center;
+}
+
+input{
+    font-size: 22px;
+    width: 100%;
+    height: 30px;
+}
